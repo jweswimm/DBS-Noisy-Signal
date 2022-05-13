@@ -1,0 +1,3 @@
+function awKSTN = awK(v)
+    awK = ninf(v)/taun(v);
+end
